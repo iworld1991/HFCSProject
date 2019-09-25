@@ -1,0 +1,5 @@
+%%bash 
+ipython nbconvert --to latex --template template.tplx LiteratureSurvey.ipynb
+pdflatex LiteratureSurvey.tex
+bibtex LiteratureSurvey
+pdflatex LiteratureSurvey.tex
