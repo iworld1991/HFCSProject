@@ -157,10 +157,10 @@ for i in range(len(db)):
 # - Coexistence of wealth/income data
 #   
 # - The exact form of wealth 
-#   - composition of the household assets in terms of liquidity
+#   - composition of the household wealth in terms of liquidity
 #   - the particular role of housing wealth
 
-# ### Section 2. A proposal to including a module on expectations
+# ### Section 2. A proposal to include a module on expectations
 #
 # - What is included in the HFCS 
 #   - Only realized variables, no question on expectations
