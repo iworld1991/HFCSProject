@@ -85,11 +85,11 @@ for i in range(len(db)):
 #    - Institutions
 #      - public insurance and labor risks. <cite data-cite="7250895/5NVRDSGH"></cite>: wealth inequality across Euro Area countries mostly explained by the differences in welfare policies and less by labor income risks.
 #      - household structure. <cite data-cite="7250895/CZ3XDZTX"></cite>: imposing a common household structure has strong effects on both the full unconditional distributions as well as its mappings to different inequality measures.
-#      - friction in the debt and equity market. <cite data-cite="7250895/DTHQHGZQ"></cite>: more wealth inequality in countries where there are more private held firms and ownership of publicly traded firms is more concentrated.
+#      - friction in the debt and equity market.<cite data-cite="7250895/DTHQHGZQ"></cite>: more wealth inequality in countries where there are more private held firms and ownership of publicly traded firms is more concentrated.
 #    - Income distribution
 #      - <cite data-cite="7250895/R3NVYQYY"></cite>: the location in the income distributions is positively correlated with the location in the wealth distribution. 
 #    - Distributional effects of monetary policy
-#      - <cite data-cite="7250895/5BUDWRW5"></cite>: monetary policy plays a limited role in driving wealth inequality compared to to income differences. 
+#      - <cite data-cite="7250895/EIPKT7KF"></cite>: monetary policy plays a limited role in driving wealth inequality compared to to income differences. 
 #      - <cite data-cite="7250895/7TCJF4DR"></cite>: ECB's non-standard monetary policies produced more benefits to bottom-income group as the general economic and employment benifits overweigh those via financial markets. 
 #   
 #    - Distributional effects of fiscal policies
@@ -109,21 +109,20 @@ for i in range(len(db)):
 #    - Monetary policy transmission
 #      - <cite data-cite="7250895/X7STV7A6"></cite>:  the indirect income channel dominates other transmission channels of monetary policies, especially for households holding few or no liquid assets.
 #      - <cite data-cite="7250895/5AIFVER9"></cite>: monetary policies, operating through its effects on household income and asset market returns, has a differential impact on individuals within and across four Euro area countries. 
-#    - Precautionary saving and deflationary spirals.
-#      - <cite data-cite="7250895/RPWC4MNU"></cite>
+#    - Precautionary saving and deflationary spirals: <cite data-cite="7250895/RPWC4MNU"></cite>
 #
 # - Use of the data on other questions
 #
 #   - How macro experiences affect saving decisions? 
-#      - <cite data-cite="7250895/2C4456TZ"></cite>: experience of stock market returns affect households's risk-taking and stock market participation across countries in the Euro Area.
-#      <cite data-cite="7250895/2C4456TZ"></cite>: rent-or-buy decisions shaped by macroeconomic experiences. For instance, higher inflation experiences increases likelihood of home ownership. 
+#      - <cite data-cite="7250895/265UI24R"></cite>: experience of stock market returns affect households's risk-taking and stock market participation across countries in the Euro Area.
+#      - <cite data-cite="7250895/8HVWLRJK"></cite>: rent-or-buy decisions shaped by macroeconomic experiences. For instance, higher inflation experiences increases likelihood of home ownership. 
 #   - Social interactions and borrowing behaviors.
 #      - <cite data-cite="7250895/HL2L3Y36"></cite>: perceived peer income contributes affects debt choice and financial fragility of households.
 #   - Financial decisions with bounded rationality 
-#      - <cite data-cite="7250895/7TLDTVUQ"></cite>
+#      - <cite data-cite="7250895/7TLDTVUQ"></cite>: a lecture on consumer financial regulation in an environment where many households lack the knowledge to manage their financial affairs effectively.
 #   - Saving and borrowing behaviors across countries
 #      - <cite data-cite="7250895/XE6JTE7U"></cite>: relatively homogeneity in saving preferences but heterogeneity in borrowing constraints across Euro Zone countries.
-#      - <cite data-cite="7250895/VT3W29DZ">
+#      - <cite data-cite="7250895/VT3W29DZ"></cite>: how institutional factors affect the distribution of debt across Euro area countries.
 #      - <cite data-cite="7250895/4A5LC8LW"></cite>: the drivers of differences in debt-holding positions between the U.S. and median European countries.
 #      - <cite data-cite="7250895/XE6JTE7U"></cite> examines self-assessed saving motives in 15 European countries, the most common one of which is precautionary. 
 #   - Diagosis of euro zone debt crisis
@@ -132,8 +131,8 @@ for i in range(len(db)):
 #   - Macroprudential policy and household balance sheet
 #      - <cite data-cite="7250895/X7STV7A6"></cite>: stress testing on household balance sheets across Euro Zone countries. 
 #   - Top tail of the wealth inequality
-#     - <cite data-cite="7250895/U59QUANP"></cite>: adding extreme observations help remove downward bias of wealth distribution from survey. 
 #     - <cite data-cite="7250895/LRFKDVCT"></cite>: proposes an approach to address non-response of wealthy group and underreporting of wealth surveys.
+#     - <cite data-cite="7250895/F7FEBMJE"></cite>: adding extreme observations help remove downward bias of wealth distribution from survey. 
 #     
 #   - Mortgage choices
 #     - <cite data-cite="7250895/JRXR8Q7W"></cite>: studied the mortgage choice between fixed-interest-rate mortgages (FRMs) and adjustable-interest-rate mortgages (ARMs) across countries.
