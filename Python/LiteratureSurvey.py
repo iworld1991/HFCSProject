@@ -77,39 +77,37 @@ for i in range(len(db)):
 
 # ### Section 1.1. Major topics covered by this literature
 #
-# - Empirical facts and patterns of household income and wealth 
-#
 # - Drivers of wealth inequality 
-#    - Home ownership 
+#    - Homeownership 
 #      - <cite data-cite="7250895/QK8EPBGS"></cite>: differences in homeownership rates and house price dynamics are important for explaining wealth differences across euro area countries.
-#      - <cite data-cite="7250895/I84A95VL"></cite>: negative correlation between wealth inequality and home ownership, mostly driven by large between-group inequality across owners and renters.
-#      - <cite data-cite="7250895/R8NAIB7B"></cite>: wedges in reantal market are one important drivers of differences in wealth inequality across European countries. 
+#      - <cite data-cite="7250895/DNPW7XVC"></cite>: negative correlation between wealth inequality and home ownership, mostly driven by large between-group inequality across owners and renters.
+#      - <cite data-cite="7250895/R8NAIB7B"></cite>: wedges in reantal market are one of the important drivers of differences in wealth inequality across European countries. 
 #    - Institutions
-#      - public insurance and labor risks. <cite data-cite="7250895/5NVRDSGH"></cite>: wealth inequality across Euro Area countries mostly explained by the the differences in wealfare policies and less by labor income risks.
+#      - public insurance and labor risks. <cite data-cite="7250895/5NVRDSGH"></cite>: wealth inequality across Euro Area countries mostly explained by the differences in welfare policies and less by labor income risks.
 #      - household structure. <cite data-cite="7250895/CZ3XDZTX"></cite>: imposing a common household structure has strong effects on both the full unconditional distributions as well as its mappings to different inequality measures.
-#      - friction in debt and equity market. <cite data-cite="7250895/DTHQHGZQ"></cite>: more wealth inequality in countries where there are more private held firms and ownership of publicly traded firms is more concentrated.
+#      - friction in the debt and equity market. <cite data-cite="7250895/DTHQHGZQ"></cite>: more wealth inequality in countries where there are more private held firms and ownership of publicly traded firms is more concentrated.
 #    - Income distribution
-#      - <cite data-cite="7250895/R3NVYQYY"></cite>: The location in the income distributions is positively correlated with the location in the wealth distribution. 
+#      - <cite data-cite="7250895/R3NVYQYY"></cite>: the location in the income distributions is positively correlated with the location in the wealth distribution. 
 #    - Distributional effects of monetary policy
-#      - <cite data-cite="7250895/5BUDWRW5"></cite>: Monetary policy plays a limited role in driving wealth inequality compared to to income differences. 
+#      - <cite data-cite="7250895/5BUDWRW5"></cite>: monetary policy plays a limited role in driving wealth inequality compared to to income differences. 
 #      - <cite data-cite="7250895/7TCJF4DR"></cite>: ECB's non-standard monetary policies produced more benefits to bottom-income group as the general economic and employment benifits overweigh those via financial markets. 
 #   
 #    - Distributional effects of fiscal policies
 #      - <cite data-cite="7250895/X43MNXDK"></cite>: study the income inequality and stronger recessive impacts of fiscal consolidation programs in Euro Area countries in a calibrated life-cycle model.
 #    - Distributional effects of asset price increase
-#      - <cite data-cite="7250895/U8D8T656"></cite>: different impacts of changes in housing, debt and equity prices on households with different level of wealth. 
+#      - <cite data-cite="7250895/U8D8T656"></cite>: different impacts of changes in housing, debt and equity prices on households with different levels of wealth. 
 #
 #
 #  
 # - Implications of wealth inequality and market incompleteness
-#    - Wealth effect of consumption
+#    - The wealth effect of consumption
 #      - <cite data-cite="7250895/ZQKHNQHG"></cite>: a survey paper on wealth effect of consumption.
 #    - Heterogeneity in MPCs
 #      - <cite data-cite="7250895/LYGFNASY"></cite>: "wealthy hand-to-month".
 #      - <cite data-cite="7250895/4BG3W9GZ"></cite>: heterogeneous MPCS across 15 Euro Zone countries.
 #      
-#    - Monetary policy transimission
-#      - <cite data-cite="7250895/X7STV7A6"></cite>:  The indirect income channel dominantes other transimission channel of monetary policies, especially for households holding few or no liquid assets.
+#    - Monetary policy transmission
+#      - <cite data-cite="7250895/X7STV7A6"></cite>:  the indirect income channel dominates other transmission channels of monetary policies, especially for households holding few or no liquid assets.
 #      - <cite data-cite="7250895/5AIFVER9"></cite>: monetary policies, operating through its effects on household income and asset market returns, has a differential impact on individuals within and across four Euro area countries. 
 #    - Precautionary saving and deflationary spirals.
 #      - <cite data-cite="7250895/RPWC4MNU"></cite>
@@ -130,8 +128,8 @@ for i in range(len(db)):
 #      - <cite data-cite="7250895/XE6JTE7U"></cite> examines self-assessed saving motives in 15 European countries, the most common one of which is precautionary. 
 #   - Diagosis of euro zone debt crisis
 #      - <cite data-cite="7250895/K8YWNJB6"></cite>: evaluate impacts of private leverage, fiscal austerity and sudden stop before and after the crisis.
-#   
-#   - Maro prudential policy and household balance sheet
+#     
+#   - Macroprudential policy and household balance sheet
 #      - <cite data-cite="7250895/X7STV7A6"></cite>: stress testing on household balance sheets across Euro Zone countries. 
 #   - Top tail of the wealth inequality
 #     - <cite data-cite="7250895/U59QUANP"></cite>: adding extreme observations help remove downward bias of wealth distribution from survey. 
@@ -150,9 +148,9 @@ for i in range(len(db)):
 #     - financial markets
 #     - housing market
 # - Cross-country variation but with a single currency zone 
-#   - particularly useful to study how monetary policy generate distributional consequences depending on the country's specific charateristics.
+#   - particularly useful to study how monetary policy generates distributional consequences depending on the country's specific characteristics.
 #   - before the credit boom: the role of household leverage and private borrowing 
-#   - after the euro debt crisis, credit supply shock through bank balance sheet  
+#   - after the euro debt crisis, credit supply shock through the bank balance sheet  
 #   
 # - Cultural differences in affecting household saving borrowing decisions
 #     - in particular, the intergenerational concerns
