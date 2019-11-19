@@ -74,6 +74,9 @@ for i in range(len(db)):
 #
 
 # ## Section 1. literature survey that is based on the existing data
+#
+# - criteria: has more than 10 cites or contains some interesting nuances. 
+# - ranked by citations in the list printed above. 
 
 # ### Section 1.1. Major topics covered by this literature
 #
@@ -83,7 +86,7 @@ for i in range(len(db)):
 #      - <cite data-cite="7250895/DNPW7XVC"></cite>: negative correlation between wealth inequality and home ownership, mostly driven by large between-group inequality across owners and renters.
 #      - <cite data-cite="7250895/R8NAIB7B"></cite>: wedges in reantal market are one of the important drivers of differences in wealth inequality across European countries. 
 #    - Institutions
-#      - public insurance and labor risks. <cite data-cite="7250895/5NVRDSGH"></cite>: wealth inequality across Euro Area countries mostly explained by the differences in welfare policies and less by labor income risks.
+#      - public insurance and labor risks. <cite data-cite="7250895/5NVRDSGH"></cite>: wealth inequality across Euro area countries are mostly explained by the differences in welfare policies and less by labor income risks.
 #      - household structure. <cite data-cite="7250895/CZ3XDZTX"></cite>: imposing a common household structure has strong effects on both the full unconditional distributions as well as its mappings to different inequality measures.
 #      - friction in the debt and equity market.<cite data-cite="7250895/DTHQHGZQ"></cite>: more wealth inequality in countries where there are more private held firms and ownership of publicly traded firms is more concentrated.
 #    - Income distribution
@@ -104,7 +107,7 @@ for i in range(len(db)):
 #      - <cite data-cite="7250895/ZQKHNQHG"></cite>: a survey paper on wealth effect of consumption.
 #    - Heterogeneity in MPCs
 #      - <cite data-cite="7250895/LYGFNASY"></cite>: "wealthy hand-to-month".
-#      - <cite data-cite="7250895/4BG3W9GZ"></cite>: heterogeneous MPCS across 15 Euro Zone countries.
+#      - <cite data-cite="7250895/4BG3W9GZ"></cite>: heterogeneous MPCS across 15 Euro area countries.
 #      
 #    - Monetary policy transmission
 #      - <cite data-cite="7250895/X7STV7A6"></cite>:  the indirect income channel dominates other transmission channels of monetary policies, especially for households holding few or no liquid assets.
@@ -113,8 +116,8 @@ for i in range(len(db)):
 #
 # - Use of the data on other questions
 #
-#   - How macro experiences affect saving decisions? 
-#      - <cite data-cite="7250895/265UI24R"></cite>: experience of stock market returns affect households's risk-taking and stock market participation across countries in the Euro Area.
+#   - Macro experiences affect economic decisions 
+#      - <cite data-cite="7250895/265UI24R"></cite>: experience of stock market returns affect households's risk-taking and stock market participation across countries in the Euro area.
 #      - <cite data-cite="7250895/8HVWLRJK"></cite>: rent-or-buy decisions shaped by macroeconomic experiences. For instance, higher inflation experiences increases likelihood of home ownership. 
 #   - Social interactions and borrowing behaviors.
 #      - <cite data-cite="7250895/HL2L3Y36"></cite>: perceived peer income contributes affects debt choice and financial fragility of households.
@@ -123,13 +126,13 @@ for i in range(len(db)):
 #   - Saving and borrowing behaviors across countries
 #      - <cite data-cite="7250895/XE6JTE7U"></cite>: relatively homogeneity in saving preferences but heterogeneity in borrowing constraints across Euro Zone countries.
 #      - <cite data-cite="7250895/VT3W29DZ"></cite>: how institutional factors affect the distribution of debt across Euro area countries.
-#      - <cite data-cite="7250895/4A5LC8LW"></cite>: the drivers of differences in debt-holding positions between the U.S. and median European countries.
-#      - <cite data-cite="7250895/XE6JTE7U"></cite> examines self-assessed saving motives in 15 European countries, the most common one of which is precautionary. 
+#      - <cite data-cite="7250895/4A5LC8LW"></cite>: the drivers of differences in debt-holding positions between the U.S. and a median Euro area country.
+#      - <cite data-cite="7250895/XE6JTE7U"></cite> examines self-assessed saving motives in 15 European countries, the most common one of which is precautionary motive. 
 #   - Diagosis of euro zone debt crisis
 #      - <cite data-cite="7250895/K8YWNJB6"></cite>: evaluate impacts of private leverage, fiscal austerity and sudden stop before and after the crisis.
 #     
 #   - Macroprudential policy and household balance sheet
-#      - <cite data-cite="7250895/X7STV7A6"></cite>: stress testing on household balance sheets across Euro Zone countries. 
+#      - <cite data-cite="7250895/X7STV7A6"></cite>: stress testing on household balance sheets across Euro area countries. 
 #   - Top tail of the wealth inequality
 #     - <cite data-cite="7250895/LRFKDVCT"></cite>: proposes an approach to address non-response of wealthy group and underreporting of wealth surveys.
 #     - <cite data-cite="7250895/F7FEBMJE"></cite>: adding extreme observations help remove downward bias of wealth distribution from survey. 
@@ -138,7 +141,7 @@ for i in range(len(db)):
 #     - <cite data-cite="7250895/JRXR8Q7W"></cite>: studied the mortgage choice between fixed-interest-rate mortgages (FRMs) and adjustable-interest-rate mortgages (ARMs) across countries.
 #   
 #   
-# ### Section 1.2.  Merits of the HFCS
+# ### Section 1.2.  Research questions suited for using HFCS
 #
 # - Cross-country variation
 #   
@@ -211,3 +214,12 @@ for i in range(len(db)):
 # ## Reference 
 #
 # 1. [HFCS Core Questionaire](https://www.ecb.europa.eu/home/pdf/research/hfcn/HFCS_Core_and_derived_variables_Wave2.pdf?8d19475a7edb8ff7de6d99a885e527ec)
+#
+# 2. [Bibliography of the HFCS](https://www.ecb.europa.eu/home/pdf/research/hfcn/Bibliography_of_the_HFCS.pdf)
+#
+# 3. [<cite data-cite="7250895/GJKLQI3P"></cite>](https://www.ecb.europa.eu/pub/pdf/scpsps/ecbsp2.en.pdf)
+#
+# 4. [HFCS webpage](https://www.ecb.europa.eu/pub/economic-research/research-networks/html/researcher_hfcn.en.html)
+#
+# 5. [Report about the Research Activities of the HFCN since the Release of the Wave 2 Dataset](https://www.ecb.europa.eu/home/pdf/research/hfcn/201903_Research_Report_HFCS.pdf?4f69e44965732d62284015b274bab529)
+#
