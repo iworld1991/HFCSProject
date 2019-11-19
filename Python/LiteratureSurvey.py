@@ -217,9 +217,12 @@ for i in range(len(db)):
 #
 # 2. [Bibliography of the HFCS](https://www.ecb.europa.eu/home/pdf/research/hfcn/Bibliography_of_the_HFCS.pdf)
 #
-# 3. [<cite data-cite="7250895/GJKLQI3P"></cite>](https://www.ecb.europa.eu/pub/pdf/scpsps/ecbsp2.en.pdf)
+# 3. [<cite data-cite="7250895/7SRNAYBT"></cite>](https://www.ecb.europa.eu/pub/pdf/scpops/ecbocp100.pdf)
 #
-# 4. [HFCS webpage](https://www.ecb.europa.eu/pub/economic-research/research-networks/html/researcher_hfcn.en.html)
+# 4. [<cite data-cite="7250895/GJKLQI3P"></cite>](https://www.ecb.europa.eu/pub/pdf/scpsps/ecbsp2.en.pdf)
 #
-# 5. [Report about the Research Activities of the HFCN since the Release of the Wave 2 Dataset](https://www.ecb.europa.eu/home/pdf/research/hfcn/201903_Research_Report_HFCS.pdf?4f69e44965732d62284015b274bab529)
+# 5. [HFCS webpage](https://www.ecb.europa.eu/pub/economic-research/research-networks/html/researcher_hfcn.en.html)
+#
+# 6. [Report about the Research Activities of the HFCN since the Release of the Wave 2 Dataset](https://www.ecb.europa.eu/home/pdf/research/hfcn/201903_Research_Report_HFCS.pdf?4f69e44965732d62284015b274bab529)
+#
 #
